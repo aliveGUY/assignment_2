@@ -13,6 +13,11 @@
 
 <hr/>
 
+### Download
+```bash
+git clone https://github.com/aliveGUY/assignment_2.git
+```
+
 ### Build
 
 ```bash
